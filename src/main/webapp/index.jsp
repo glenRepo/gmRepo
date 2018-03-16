@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World for CICD!</h1>
+        <h1>Hello World - CICD!</h1>
     </body>
 </html>
